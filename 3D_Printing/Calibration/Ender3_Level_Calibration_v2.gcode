@@ -3,9 +3,9 @@
 ;Filament used: 0.181969m
 ;Layer height: 0.2
 ;Generated with Cura_SteamEngine 3.4.1
-M190 S45
-M104 S200
-M109 S200
+M190 S60
+M104 S210
+M109 S210
 M82 ;absolute extrusion mode
 ;Sliced at Sat 11-08-2018 11:43:25
 ;Basic settings:
